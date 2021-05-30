@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517709128285",
+    "project_id": "cyber-d8835",
+    "storage_bucket": "cyber-d8835.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517709128285:android:3910aeacdfa818672e63b4",
+        "android_client_info": {
+          "package_name": "com.famous.cyber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517709128285-og4qiir4ucmeo60b0v3httqm31mjncov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famous.cyber",
+            "certificate_hash": "a22955d1963cd5786b01356fd464901945f40342"
+          }
+        },
+        {
+          "client_id": "517709128285-mj7f355rvlpto4oasbqqcdu89eiiotts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaqvHOgtaZmrgz6V1-FtORLkLLdtHeIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517709128285-mj7f355rvlpto4oasbqqcdu89eiiotts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

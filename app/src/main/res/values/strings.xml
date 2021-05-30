@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CYBER</string>
+    <string name="hello">Hello,</string>
+    <string name="email_address">Email address</string>
+    <string name="login">Enter your information below or login with your account</string>
+    <string name="password">Password</string>
+    <string name="password_again">Password again</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login1">Login</string>
+    <string name="welcome_back">Welcome Back,</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="image">image</string>
+    <string name="you_re_logged_in_as">You are Logged-In as</string>
+    <string name="email">Email</string>
+    <string name="drawer_header">DRAWER HEADER</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="computer">Computer</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="work">Work</string>
+
+</resources>
