@@ -39,8 +39,8 @@ class GetData : AppCompatActivity() {
                 var list = ArrayList<DatabaseModel>()
                 for (data in p0.children)
                 {
-                    var model = data.getValue(DatabaseModel::class.java)
-                    list.add(model as DatabaseModel)
+//                    var model = data.getValue(DatabaseModel::class.java)
+//                    list.add(model as DatabaseModel)
                 }
                 if (list.size > 0 )
                 {

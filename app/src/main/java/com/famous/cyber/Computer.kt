@@ -40,7 +40,7 @@ class Computer : AppCompatActivity() {
 
         if (userId.isNotEmpty() && computerName.isNotEmpty() && userName.isNotEmpty())
         {
-            var model = DatabaseModel(userId,userName,computerName)
+            var model = DatabaseModel(userId,userName)
             var id = reference.push().key
 
             //Set Data To Firebase

@@ -20,7 +20,7 @@ class DataAdapter(var list: ArrayList<DatabaseModel>): RecyclerView.Adapter<Data
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.userId.text = list[position].userId
         holder.userName.text = list[position].userName
-        holder.computerName.text = list[position].computerName
+//        holder.computerName.text = list[position].computerName
     }
 
     override fun getItemCount(): Int {
